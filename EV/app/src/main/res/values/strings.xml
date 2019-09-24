@@ -1,0 +1,10 @@
+<resources>
+    <string name="EV_Charger_Companion">EV Charger Companion</string>
+    <string-array name="brands_array">
+        <item>Tesla</item>
+        <item>BMW</item>
+        <item>Mercedes-Benz</item>
+        <item>Ford</item>
+        <item>Volvo</item>
+    </string-array>
+</resources>
